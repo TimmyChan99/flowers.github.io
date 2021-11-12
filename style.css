@@ -53,7 +53,7 @@ ul li a{
     
  }
 .bg-image{
-    background-image: url("../images/smelling\ flower.jpg");
+    background-image: url("/images/smelling\ flower.jpg");
     background-size: cover;
     height: 800px;
     opacity: 0.7;
